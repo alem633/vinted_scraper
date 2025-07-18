@@ -48,7 +48,8 @@ Before running the script, you can customize its behavior by changing the follow
 3.  Run the script with the following command:
     ```sh
     python vinted.py
-    ```4.  The script will start running. It will print messages to the console when it successfully scrapes the site or when it finds a new item.
+    ```
+4.  The script will start running. It will print messages to the console when it successfully scrapes the site or when it finds a new item.
 5.  To stop the script, press `Ctrl+C` in the terminal.
 
 ## How It Works
